@@ -1,66 +1,38 @@
 # DC Motor Test Bench
 
 # Motor
+| Motor 1 | Model: CHP-36GP-555 24v \| [Datasheet](https://www.aliexpress.com/item/32827922906.html) |
+| --- | --- |
+| ![](/img/mot1.jpg)| <ul><li>Gear Box = 515</li><li>PPR = 11</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
 
-<table class="w-auto">
-<td><img src="/img/mot1.jpg" width="50%" height="50%"></td>
-<td><p><h2>Motor 1, Model: CHP-36GP-555 24v<a href="https://www.aliexpress.com/item/32827922906.html">Datasheet</a></h2></p>
-<p>Gear Box = 515, PPR = ,</p>
-<p>Parameter: a = , b= , c= </p>
-</table>
+| Motor 2 | Model: CHP-36GP-555 24v \| [Datasheet](https://www.aliexpress.com/item/32827922906.html) |
+| --- | --- |
+| ![](/img/mot2.jpg)| <ul><li>Gear Box = 515</li><li>PPR = 11</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
 
-<table class="w-auto">
-<td><img src="/img/mot2.jpg" width="50%" height="50%"/></td>
-<td><p><h2>Motor 2, Model: CHP-36GP-555 24v<a href="https://www.aliexpress.com/item/32827922906.html">Datasheet</a></h2></p>
-<p>Gear Box = 515, PPR = ,</p>
-<p>Parameter: a = , b= , c= </p>
-</table>
+| Motor 3 | Model: CHP-36GP-555 24v \| [Datasheet](https://www.aliexpress.com/item/32827922906.html) |
+| --- | --- |
+| ![](/img/mot3.jpg)| <ul><li>Gear Box = 515</li><li>PPR = 11</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
 
-<table class="w-auto">
-<td><img src="/img/mot3.jpg" width="50%" height="50%"/></td>
-<td><p><h2>Motor 3, Model: CHP-36GP-555 24v<a href="https://www.aliexpress.com/item/32827922906.html">Datasheet</a></h2></p>
-<p>Gear Box = 515, PPR = ,</p>
-<p>Parameter: a = , b= , c= </p>
-</table>
+| Motor 4 | Model: CHP-42GP-775 24v \| [Datasheet](https://www.aliexpress.com/item/32822227433.html) |
+| --- | --- |
+| ![](/img/mot4.jpg)| <ul><li>Gear Box = 336</li><li>PPR = 16</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
 
-<table class="w-auto">
-<td><img src="/img/mot4.jpg" width="50%" height="50%"/></td>
-<td><p><h2>Motor 4, Model: CHP-42GP-775 24v<a href="https://www.aliexpress.com/item/32822227433.html">Datasheet</a></h2></p>
-<p>Gear Box = 336, PPR = ,</p>
-<p>Parameter: a = , b= , c= </p>
-</table>
+| Motor 5 | Model: CHP-42GP-BL4260 24v \| [Datasheet](http://www.audiohms.com/download/DCM50207D_1000_man_en.pdf) |
+| --- | --- |
+| ![](/img/mot5.jpg)| <ul><li>Gear Box = 67</li><li>PPR = 13</li><li>Parameter a = 25.2</li><li>Parameter b = 17.15</li><li>Parameter c = 1.95</li></ul> |
 
-<table class="w-auto">
-<td><img src="/img/mot5.jpg" width="50%" height="50%"/></td>
-<td><p><h2>Motor 5, Model: CHP-42GP-BL4260 24v <a href="http://www.audiohms.com/download/DCM50207D_1000_man_en.pdf">Datasheet</a></h2></p>
-<p>Gear Box = 67, PPR = ,</p>
-<p>Parameter: a = , b= , c= </p>
-</table>
+| Motor 6 | Model: aaa 24v \| [Datasheet]() |
+| --- | --- |
+| ![](/img/mot6.jpg)| <ul><li>Gear Box = 67</li><li>PPR = 11</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
 
-<table class="w-auto">
-<td><img src="/img/mot6.jpg" width="50%" height="50%"/></td>
-<td><p><h2>Motor 6, Model: a <a href="">Datasheet</a></h2></p>
-<p>Gear Box = , PPR = ,</p>
-<p>Parameter: a = , b= , c= </p>
-</table>
+| Motor 7 | Model: aaa 24v \| [Datasheet]() |
+| --- | --- |
+| ![](/img/mot7.jpg)| <ul><li>Gear Box = </li><li>PPR = 15</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
 
-<table class="w-auto">
-<td><img src="/img/mot7.jpg" width="50%" height="50%"/></td>
-<td><p><h2>Motor 7, Model: a <a href="">Datasheet</a></h2></p>
-<p>Gear Box = , PPR = ,</p>
-<p>Parameter: a = , b= , c= </p>
-</table>
+| Motor 8 | Model: DCM50207D-1000 24v \| [Datasheet](http://www.audiohms.com/download/DCM50207D_1000_man_en.pdf) |
+| --- | --- |
+| ![](/img/mot8.jpg)| <ul><li>Gear Box = 1</li><li>PPR = 1000</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
 
-<table class="w-auto">
-<td><img src="/img/mot8.jpg" width="50%" height="50%"/></td>
-<td><p><h2>Motor 8, Model: DCM50207D-1000 <a href="http://www.audiohms.com/download/DCM50207D_1000_man_en.pdf">Datasheet</a></h2></p>
-<p>Gear Box = 1, PPR = 1000,</p>
-<p>Parameter: a = , b= , c= </p>
-</table>
-
-<table class="w-auto">
-<td><img src="/img/mot9.jpg" width="50%" height="50%"/></td>
-<td><p><h2>Motor 9, Model: DCM50207D-1000 <a href="http://www.audiohms.com/download/DCM50207D_1000_man_en.pdf">Datasheet</a></h2></p>
-<p>Gear Box = 1, PPR = 1000,</p>
-<p>Parameter: a = , b= , c= </p>
-</table>
+| Motor 9 | Model: DCM50207D-1000 24v \| [Datasheet](http://www.audiohms.com/download/DCM50207D_1000_man_en.pdf) |
+| --- | --- |
+| ![](/img/mot9.jpg)| <ul><li>Gear Box = 1</li><li>PPR = 1000</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
