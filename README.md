@@ -1,4 +1,4 @@
-# DC Motor Test Bench
+![](/img/cover.png)
 
 # Motor
 | Motor 1 | Model: CHP-36GP-555 24v \| [Datasheet](https://www.aliexpress.com/item/32827922906.html) |
@@ -31,11 +31,11 @@
 
 | Motor 8 | Model: DCM50207D-1000 24v \| [Datasheet](http://www.audiohms.com/download/DCM50207D_1000_man_en.pdf) |
 | --- | --- |
-| ![](/img/mot8.jpg)| <ul><li>Gear Box = 1</li><li>PPR = 1000</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
+| ![](/img/mot8.jpg)| <ul><li>Gear Box = 1</li><li>PPR = 1000</li><li>Parameter a = 39.5</li><li>Parameter b = 483.6</li><li>Parameter c = 97</li></ul> |
 
 | Motor 9 | Model: DCM50207D-1000 24v \| [Datasheet](http://www.audiohms.com/download/DCM50207D_1000_man_en.pdf) |
 | --- | --- |
-| ![](/img/mot9.jpg)| <ul><li>Gear Box = 1</li><li>PPR = 1000</li><li>Parameter a = </li><li>Parameter b = </li><li>Parameter c = </li></ul> |
+| ![](/img/mot9.jpg)| <ul><li>Gear Box = 1</li><li>PPR = 1000</li><li>Parameter a = 39.5</li><li>Parameter b = 483.6</li><li>Parameter c = 97</li></ul> |
 
 | Motor 10 | Model: Robocon Planet Gear Motor 24v \| [Datasheet](http://www.roboconshop.com/San-Pham/Robocon/%C4%90ong-co/%C4%90ong-co-co-hop-so/%C4%90ong-co-Planet-60W-co-encoder-13-xung.aspx) |
 | --- | --- |
